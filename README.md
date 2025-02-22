@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/lucaasporto/LeetCode/tree/master/2383-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/lucaasporto/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/lucaasporto/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
