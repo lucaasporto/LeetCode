@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/lucaasporto/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lucaasporto/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/lucaasporto/LeetCode/tree/master/2383-add-two-integers) |
 ## Array
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/lucaasporto/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lucaasporto/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lucaasporto/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
