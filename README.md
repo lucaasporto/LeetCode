@@ -44,9 +44,18 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/lucaasporto/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lucaasporto/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/lucaasporto/LeetCode/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/lucaasporto/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/lucaasporto/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
