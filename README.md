@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/lucaasporto/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/lucaasporto/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lucaasporto/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/lucaasporto/LeetCode/tree/master/2383-add-two-integers) |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/lucaasporto/LeetCode/tree/master/0383-ransom-note) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/lucaasporto/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/lucaasporto/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
