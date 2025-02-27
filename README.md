@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/lucaasporto/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lucaasporto/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/lucaasporto/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/lucaasporto/LeetCode/tree/master/0136-single-number) |
 | [1603-running-sum-of-1d-array](https://github.com/lucaasporto/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/lucaasporto/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lucaasporto/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/lucaasporto/LeetCode/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/lucaasporto/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
