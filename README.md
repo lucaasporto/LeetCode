@@ -17,6 +17,7 @@
 | [0412-fizz-buzz](https://github.com/lucaasporto/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lucaasporto/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/lucaasporto/LeetCode/tree/master/2383-add-two-integers) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lucaasporto/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/lucaasporto/LeetCode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/lucaasporto/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/lucaasporto/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lucaasporto/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
