@@ -4,19 +4,16 @@ public:
         int sum = 0;
         int lowest = 10001;
 
-        for(int i=0; i<nums.size(); i++)
+        for(int num : nums)
         {
-            while(nums[i] > 0)
+            while(num > 0)
             {
-                sum += nums[i] % 10;
-                nums[i] /= 10;
+                sum += num % 10;
+                num /= 10;
             }
 
-            nums[i] = sum;
-
-            if(sum < lowest)
-                lowest = sum;
-
+            num = sum;
+            lowest = min(lowest, sum);
             sum = 0;
         }
 
