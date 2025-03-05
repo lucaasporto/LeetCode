@@ -18,6 +18,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lucaasporto/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/lucaasporto/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/lucaasporto/LeetCode/tree/master/2383-add-two-integers) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/lucaasporto/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lucaasporto/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
 |  |
